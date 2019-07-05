@@ -1,1 +1,3 @@
-# subword_level_bpe_to_character_level_eng_fre_NMT
+# Subword Level Encoder with character level Decoder Neural Machine Translation
+In this translation Source side is Preprocessed with bpe(byte per encoding) and decoder side is at character level.
+Here i have attached the pkl file of source and target side vocab.
